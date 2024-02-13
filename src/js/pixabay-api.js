@@ -1,5 +1,5 @@
 export function getPhotosByRequest(userRequest) {
-  const API_KEY = '42307458-71f98d2a331f0bd294b8fc1ec';
+  const API_KEY = '42352461-d27876008a3fe8f87c84519b3';
 
   const BASE_URL = 'https://pixabay.com';
   const END_POINTS = '/api/';
